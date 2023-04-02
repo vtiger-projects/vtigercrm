@@ -406,7 +406,7 @@ body > .mCSB_inside > .mCSB_container {
   background: #3CB878 !important;
 }
 .app-MARKETING {
-  background: #EF5E29 !important;
+  background: #3d66d5 !important;
 }
 .app-OTHER {
   background: #56ccc8 !important;
@@ -421,7 +421,7 @@ body > .mCSB_inside > .mCSB_container {
   background: #8E44AD !important;
 }
 .app-TOOLS {
-  background: #EF5E29 !important;
+  background: #3d66d5 !important;
 }
 .app-DEFAULT,
 .app-DASHBOARD {
@@ -551,7 +551,7 @@ a.menu-item:hover {
   color: #f2f1f1;
 }
 .app-item-color-MARKETING {
-  border-left: 4px solid #EF5E29;
+  border-left: 4px solid #3d66d5;
 }
 .app-item-color-SALES {
   border-left: 4px solid #3CB878;
@@ -566,7 +566,7 @@ a.menu-item:hover {
   border-left: 4px solid #8E44AD;
 }
 .app-item-color-TOOLS {
-  border-left: 4px solid #EF5E29;
+  border-left: 4px solid #3d66d5;
 }
 .app-item .fa {
   font-size: 1.5em;

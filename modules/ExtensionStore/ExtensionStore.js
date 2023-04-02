@@ -99,15 +99,15 @@ jQuery.Class('ExtensionStore_ExtensionStore_Js', {}, {
 		});
 	},
 
-	insertTogglePromotionHtml: function () {
-		var toggleHtml = '<div class="btn-group">'+
-				'<button class="btn btn-default addButton togglePromotion up">'+
-					'<span id="hide" class="fa fa-chevron-up"></span>'+
-					'<span id="show" class="fa fa-chevron-down hide"></span>'+
-				'</button>'+
-				'</div>';
-		jQuery('.dashboardHeading').find('.buttonGroups').append(toggleHtml);
-	},
+	// insertTogglePromotionHtml: function () {
+	// 	var toggleHtml = '<div class="btn-group">'+
+	// 			'<button class="btn btn-default addButton togglePromotion up">'+
+	// 				'<span id="hide" class="fa fa-chevron-up"></span>'+
+	// 				'<span id="show" class="fa fa-chevron-down hide"></span>'+
+	// 			'</button>'+
+	// 			'</div>';
+	// 	jQuery('.dashboardHeading').find('.buttonGroups').append(toggleHtml);
+	// },
 
 	registerEvents: function () {
 		var thisInstance = this;
