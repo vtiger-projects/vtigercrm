@@ -45,10 +45,10 @@ $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
 */
 
 $dbconfig['db_server'] = 'localhost';
-$dbconfig['db_port'] = ':3306';
-$dbconfig['db_username'] = 'crm';
-$dbconfig['db_password'] = '64650abc';
-$dbconfig['db_name'] = 'demo';
+$dbconfig['db_port'] = ':8889';
+$dbconfig['db_username'] = 'root';
+$dbconfig['db_password'] = 'root';
+$dbconfig['db_name'] = 'development';
 $dbconfig['db_type'] = 'mysqli';
 $dbconfig['db_status'] = 'true';
 
@@ -79,12 +79,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'https://demo.vtiger.com.co/';
+$site_URL = 'http://localhost:8888/demo/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/var/www/demo/';
+$root_directory = '/Applications/MAMP/htdocs/demo/';
 
 // cache direcory path
 $cache_dir = 'cache/';
