@@ -1,5 +1,5 @@
 Vtiger Public License 1.2
-Dddd
+Ddd
 The vtiger Public License Version 1.2 is based on the Mozilla Public License Version 1.1 with the additional terms in Exhibit B. The original Mozilla Public License 1.1 can be found at: http://www.mozilla.org/MPL/MPL-1.1.html
 
 Vtiger Public License Version 1.2
